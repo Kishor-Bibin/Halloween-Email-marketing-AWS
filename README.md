@@ -32,7 +32,8 @@ This project demonstrates how to build a serverless email marketing application 
 4. **Amazon EventBridge**:
     - Schedules and triggers the Lambda function at defined intervals (e.g., weekly).
     - Supports flexible scheduling options, including one-time or recurring events.
-![image](https://github.com/user-attachments/assets/6e0d0b50-3f4d-4c20-8577-5a4d8a5e5ace)
+![image](https://github.com/user-attachments/assets/03be1963-02ac-4513-9326-1fa3635ab3de)
+
 
 
 ---
